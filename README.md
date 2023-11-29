@@ -20,7 +20,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Csharp-282C34?logo=csharp&logoColor=512BD4" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C#-282C34?logo=csharp&logoColor=512BD4" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
 &nbsp;
