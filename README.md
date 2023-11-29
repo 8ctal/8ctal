@@ -26,9 +26,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
@@ -38,7 +38,7 @@
 
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/angular-282C34?logo=docker&logoColor=0F0F11" alt="Angular logo" title="Angular" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/angular-282C34?logo=angular&logoColor=0F0F11" alt="Angular logo" title="Angular" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
 &nbsp;
@@ -51,7 +51,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/mysql-282C34?logo=sass&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
