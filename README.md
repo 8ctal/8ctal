@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Camilo Avila, a passionate student of CS at Universidad Industrial de Santander - Colombia
+- 👀 I’m interested in Web development and Data Science
+- 🌱 I’m currently learning Python, Angular and Java
+- 📫 You can contact me on camilojaimes04@gmail.com
