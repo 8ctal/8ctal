@@ -42,8 +42,6 @@
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Web pack-282C34?logo=webpack&logoColor=8DD6F9" alt="WebPack logo" title="Webpack" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][learning_now_anchor]
 ## 👾  What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
