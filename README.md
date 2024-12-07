@@ -66,6 +66,8 @@
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/camilo-%C3%A1vila-903002225/)
 &nbsp;
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" alt="leetCode logo" title="LeetCode" height="25" />](https://leetcode.com/u/8ctal/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Kaggle-FFA116?logo=kaggle&logoColor=#20BEFF&style=for-the-badge" alt="kaggle logo" title="Kaggle" height="25" />](https://www.kaggle.com/octals)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
