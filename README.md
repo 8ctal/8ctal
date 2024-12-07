@@ -67,7 +67,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" alt="leetCode logo" title="LeetCode" height="25" />](https://leetcode.com/u/8ctal/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Kaggle-FFA116?logo=kaggle&logoColor=#20BEFF&style=for-the-badge" alt="kaggle logo" title="Kaggle" height="25" />](https://www.kaggle.com/octals)
+[<img src="https://img.shields.io/badge/Kaggle-#20BEFF?logo=kaggle&logoColor=#20BEFF&style=for-the-badge" alt="kaggle logo" title="Kaggle" height="25" />](https://www.kaggle.com/octals)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
