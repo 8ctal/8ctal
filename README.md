@@ -87,8 +87,12 @@
 ###
 
 <br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/8ctal/8ctal/output/snake.svg" alt="Snake animation" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/8ctal/8ctal/output/snake.svg" alt="Snake animation" />
 
 ###
 
