@@ -90,7 +90,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/8ctal/8ctal/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/8ctal/8ctal/output/github-snake.svg" alt="github-snake" />
 </picture>
 
 
