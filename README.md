@@ -88,9 +88,9 @@
 
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/8ctal/8ctal/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8ctal/8ctal/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/8ctal/8ctal/output/github-snake.svg" alt="Snake animation" />
 </picture>
 
 
