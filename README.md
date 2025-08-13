@@ -1,4 +1,27 @@
-<h1 align="center">Hey ! 🐈🎱</h1>
+<!-- 🌈 Header gradient -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- 👋 Welcome Header -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey ! 🐈🎱, 8ctal here</h1></summary>
+  </ul>
+</div>
+
+<!-- Typing animation + GIF -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer!" />
+  <img align="right" height="170" style="max-width: 100%; height: auto;" " />
+</div>
+
+<!-- Motivational line -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">If u can imagine it, u can build it</h2></summary>
+  </ul>
+</div>
+
+---
 
 ###
 
